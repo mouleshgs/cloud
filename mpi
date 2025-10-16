@@ -27,6 +27,9 @@ complie:
 mpicc hello_mpi.c -o hello_mpi
 
 
+sudo apt install -y -qq mpich
+pip install mpi4py
+
 run with:
 mpirun -np 4 ./hello_mpi
 

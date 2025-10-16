@@ -133,6 +133,9 @@ export default function FirestoreMinimal() {
   );
 }
 
+
+
+
 /*
 Steps to run:
 1️⃣  npm create vite@latest myapp -- --template react
@@ -141,4 +144,5 @@ Steps to run:
 4️⃣  In Firebase Console, enable Email/Password Auth & Firestore.
 5️⃣  npm run dev
 6️⃣  For hosting: firebase init hosting → firebase deploy
+https://fir-app-e73ec.web.app/
 */
